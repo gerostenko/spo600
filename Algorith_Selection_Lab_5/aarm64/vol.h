@@ -1,0 +1,2 @@
+#define SAMPLES 5000000
+#define SAMPLE_SIZE 65536 
